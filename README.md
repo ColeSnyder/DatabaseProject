@@ -7,7 +7,7 @@ As a student-classroom project, several technologies are utilized here for proof
 * Java
 * CSS Grid
 * mySQL
-* Apache Tomcat
 * JDBC
-* Basic web stack: HTML, JS, CSS
-
+* HTML5
+* CSS3
+* JavaScript es6
